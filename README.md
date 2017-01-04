@@ -8,7 +8,7 @@
 ###2017-1-4
 1. CSS3PS插件——CSS3Ps——Photoshop图层特效转CSS3代码
 2. 关于插件的使用——[张鑫旭博客](http://www.zhangxinxu.com/wordpress/2013/09/图层转css3-photoshop扩展css3ps插件/)
-3. 评价：很方便 so easy!
+
 
 
 
